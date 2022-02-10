@@ -10,5 +10,5 @@ Belajar Kelas Dasar Git dengan GitHub (37%)
 * Mengenal cara release software dan penulisannya
 * Mengenal tools yang ada di GitHub  
 
-**10 Februari 2022**  
+**10 Februari 2022**  (100%)
 Belajar Kelas Dasar Git dengan GitHub
