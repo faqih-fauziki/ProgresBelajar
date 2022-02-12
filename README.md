@@ -2,13 +2,13 @@
 Repository Ini Berisi Progres Belajar di Dicoding
 
 **9 Februari 2022**  
-Belajar Kelas Dasar Git dengan GitHub (37%)
-* Mengenal Git dan Github sebagai penyedia layanan cloud
-* Mengenal cara membuat repository baru
-* Mengenal markdown dan pentingnya Readme.md
-* Mengenal commit, chekout,  reset, dan revert
-* Mengenal cara release software dan penulisannya
-* Mengenal tools yang ada di GitHub  
+Menyelesaikan Modul : Persiapan Belajar, Git dan GitHub, Dasar Git (37%)  
 
-**10 Februari 2022**  (100%)
-Belajar Kelas Dasar Git dengan GitHub
+**10 Februari 2022**  
+Menyelesaikan Modul : Studi Kasus Pengalaman Belajar, Git Branches, (61%)  
+
+**11 Februari 2022**  
+Menyelesaikan Modul : Kolaborasi dengan Tim (69%)  
+
+**12 Februari 2022**  
+
